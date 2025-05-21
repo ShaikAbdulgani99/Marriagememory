@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Marriagememory/static/css/main.0dc89954.css",
+    "main.js": "/Marriagememory/static/js/main.340056d9.js",
+    "static/media/nikah-music.mp3": "/Marriagememory/static/media/nikah-music.9b466907c95b4df8a333.mp3",
+    "static/media/cover.png": "/Marriagememory/static/media/cover.79bd4aee23a96713539b.png",
+    "static/media/left.png": "/Marriagememory/static/media/left.f3bf973c3ea2783f2729.png",
+    "static/media/right.png": "/Marriagememory/static/media/right.83f69e863bf2856b355d.png",
+    "index.html": "/Marriagememory/index.html",
+    "main.0dc89954.css.map": "/Marriagememory/static/css/main.0dc89954.css.map",
+    "main.340056d9.js.map": "/Marriagememory/static/js/main.340056d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dc89954.css",
+    "static/js/main.340056d9.js"
+  ]
+}
