@@ -1,4 +1,5 @@
 {
+  "homepage": "https://ShaikAbdulgani99.github.io/Marriagememory",
   "name": "Marriage-memory-using-reactjs",
   "version": "1.0.0",
   "description": "",
@@ -20,6 +21,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": [
     ">0.2%",
